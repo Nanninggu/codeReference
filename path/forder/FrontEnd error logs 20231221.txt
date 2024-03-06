@@ -1,0 +1,15 @@
+08:45:22  + [ -s /data/jenkins_worker/build_tools/nvm/nvm.sh ]
+08:45:22  + . /data/jenkins_worker/build_tools/nvm/nvm.sh
+08:45:23  + nvm use 18.13.0
+08:45:25  + node --version
+08:45:25  v18.13.0
+08:45:25  + yarn build
+08:45:25  yarn run v1.22.21
+08:45:25  $ npm run lint && tsc && vite build
+08:45:25  
+08:45:25  > pre-ke-react-typescript@0.0.0 lint
+08:45:25  > eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0
+08:45:25  
+08:45:25  sh: 1: eslint: not found
+08:45:25  error Command failed with exit code 127.
+08:45:25  info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.

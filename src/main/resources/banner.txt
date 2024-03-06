@@ -1,0 +1,16 @@
+${AnsiBackground.RED}| | | |  ___  | || |  ___   | | / /(_)  _     _
+${AnsiBackground.BLUE}| |_| | / _ \ | || | / _ \  | |/ /  _ _| |_ _| |_  _  _
+${AnsiBackground.YELLOW}|  _  |/ /_\ \| || |/ / \ \ |   /  | |_   _|_   _|| |/ /
+${AnsiBackground.GREEN}| | | |\ ,___/| || |\ \_/ / | |\ \ | | | |_  | |_ | / /
+${AnsiBackground.MAGENTA}|_| |_| \___/ |_||_| \___/  |_| \_\|_| \___| \___||  /
+${AnsiBackground.DEFAULT}                       _           _              / /
+                      / \_______ /|_\             \/
+                     /          /_/ \
+                    /             \_/
+                  _|_  O    _    O  _|_
+                  _|_      (_)      _|_
+                    _\_____________/_
+                   /  \/  (___)  \/  \
+                   \__(  o     o  )__/
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
